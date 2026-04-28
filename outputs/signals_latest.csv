@@ -18143,3 +18143,10 @@ date,ticker,direction,alpha_name
 2026-04-27,UUP,-1,alpha_momentum_rank
 2026-04-27,XLE,1,alpha_momentum_rank
 2026-04-27,XLF,-1,alpha_momentum_rank
+2026-04-28,EEM,1,alpha_momentum_rank
+2026-04-28,SLV,1,alpha_momentum_rank
+2026-04-28,TLT,-1,alpha_momentum_rank
+2026-04-28,USO,1,alpha_momentum_rank
+2026-04-28,VNQ,-1,alpha_momentum_rank
+2026-04-28,XLE,1,alpha_momentum_rank
+2026-04-28,XLF,-1,alpha_momentum_rank
