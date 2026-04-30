@@ -18157,3 +18157,10 @@ date,ticker,direction,alpha_name
 2026-04-29,VNQ,-1,alpha_momentum_rank
 2026-04-29,XLE,1,alpha_momentum_rank
 2026-04-29,XLF,-1,alpha_momentum_rank
+2026-04-30,GLD,1,alpha_momentum_rank
+2026-04-30,SLV,1,alpha_momentum_rank
+2026-04-30,TLT,-1,alpha_momentum_rank
+2026-04-30,USO,1,alpha_momentum_rank
+2026-04-30,VNQ,-1,alpha_momentum_rank
+2026-04-30,XLE,1,alpha_momentum_rank
+2026-04-30,XLF,-1,alpha_momentum_rank
