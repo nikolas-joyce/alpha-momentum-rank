@@ -18164,3 +18164,10 @@ date,ticker,direction,alpha_name
 2026-04-30,VNQ,-1,alpha_momentum_rank
 2026-04-30,XLE,1,alpha_momentum_rank
 2026-04-30,XLF,-1,alpha_momentum_rank
+2026-05-01,GLD,1,alpha_momentum_rank
+2026-05-01,SLV,1,alpha_momentum_rank
+2026-05-01,TLT,-1,alpha_momentum_rank
+2026-05-01,USO,1,alpha_momentum_rank
+2026-05-01,VNQ,-1,alpha_momentum_rank
+2026-05-01,XLE,1,alpha_momentum_rank
+2026-05-01,XLF,-1,alpha_momentum_rank
