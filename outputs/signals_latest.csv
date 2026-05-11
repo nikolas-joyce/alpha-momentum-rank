@@ -18206,3 +18206,10 @@ date,ticker,direction,alpha_name
 2026-05-08,UUP,-1,alpha_momentum_rank
 2026-05-08,XLE,1,alpha_momentum_rank
 2026-05-08,XLF,-1,alpha_momentum_rank
+2026-05-11,GLD,1,alpha_momentum_rank
+2026-05-11,SLV,1,alpha_momentum_rank
+2026-05-11,TLT,-1,alpha_momentum_rank
+2026-05-11,USO,1,alpha_momentum_rank
+2026-05-11,UUP,-1,alpha_momentum_rank
+2026-05-11,XLE,1,alpha_momentum_rank
+2026-05-11,XLF,-1,alpha_momentum_rank
