@@ -18360,3 +18360,10 @@ date,ticker,direction,alpha_name
 2026-06-10,USO,1,alpha_momentum_rank
 2026-06-10,UUP,-1,alpha_momentum_rank
 2026-06-10,XLF,-1,alpha_momentum_rank
+2026-06-11,EEM,1,alpha_momentum_rank
+2026-06-11,GLD,1,alpha_momentum_rank
+2026-06-11,SLV,1,alpha_momentum_rank
+2026-06-11,TLT,-1,alpha_momentum_rank
+2026-06-11,USO,1,alpha_momentum_rank
+2026-06-11,UUP,-1,alpha_momentum_rank
+2026-06-11,XLF,-1,alpha_momentum_rank
