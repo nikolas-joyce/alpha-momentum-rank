@@ -18423,3 +18423,10 @@ date,ticker,direction,alpha_name
 2026-06-24,UUP,-1,alpha_momentum_rank
 2026-06-24,XLE,1,alpha_momentum_rank
 2026-06-24,XLF,-1,alpha_momentum_rank
+2026-06-25,EEM,1,alpha_momentum_rank
+2026-06-25,SLV,1,alpha_momentum_rank
+2026-06-25,TLT,-1,alpha_momentum_rank
+2026-06-25,USO,1,alpha_momentum_rank
+2026-06-25,UUP,-1,alpha_momentum_rank
+2026-06-25,XLE,1,alpha_momentum_rank
+2026-06-25,XLF,-1,alpha_momentum_rank
