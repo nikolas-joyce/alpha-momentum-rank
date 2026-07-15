@@ -18514,3 +18514,10 @@ date,ticker,direction,alpha_name
 2026-07-14,USO,1,alpha_momentum_rank
 2026-07-14,XLE,1,alpha_momentum_rank
 2026-07-14,XLF,-1,alpha_momentum_rank
+2026-07-15,EEM,1,alpha_momentum_rank
+2026-07-15,HYG,-1,alpha_momentum_rank
+2026-07-15,IWM,1,alpha_momentum_rank
+2026-07-15,SLV,1,alpha_momentum_rank
+2026-07-15,TLT,-1,alpha_momentum_rank
+2026-07-15,USO,1,alpha_momentum_rank
+2026-07-15,XLF,-1,alpha_momentum_rank
