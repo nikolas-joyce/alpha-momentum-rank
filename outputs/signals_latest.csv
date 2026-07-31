@@ -18598,3 +18598,10 @@ date,ticker,direction,alpha_name
 2026-07-30,TLT,-1,alpha_momentum_rank
 2026-07-30,USO,1,alpha_momentum_rank
 2026-07-30,XLF,-1,alpha_momentum_rank
+2026-07-31,EEM,1,alpha_momentum_rank
+2026-07-31,HYG,-1,alpha_momentum_rank
+2026-07-31,IWM,1,alpha_momentum_rank
+2026-07-31,SLV,1,alpha_momentum_rank
+2026-07-31,TLT,-1,alpha_momentum_rank
+2026-07-31,USO,1,alpha_momentum_rank
+2026-07-31,XLF,-1,alpha_momentum_rank
