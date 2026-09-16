@@ -18808,3 +18808,10 @@ date,ticker,direction,alpha_name
 2026-09-11,USO,1,alpha_momentum_rank
 2026-09-11,UUP,-1,alpha_momentum_rank
 2026-09-11,XLE,1,alpha_momentum_rank
+2026-09-14,EEM,1,alpha_momentum_rank
+2026-09-14,HYG,-1,alpha_momentum_rank
+2026-09-14,SLV,1,alpha_momentum_rank
+2026-09-14,TLT,-1,alpha_momentum_rank
+2026-09-14,USO,1,alpha_momentum_rank
+2026-09-14,UUP,-1,alpha_momentum_rank
+2026-09-14,XLE,1,alpha_momentum_rank
