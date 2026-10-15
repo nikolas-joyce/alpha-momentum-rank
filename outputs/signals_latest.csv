@@ -18955,3 +18955,10 @@ date,ticker,direction,alpha_name
 2026-10-12,USO,1,alpha_momentum_rank
 2026-10-12,UUP,-1,alpha_momentum_rank
 2026-10-12,XLE,1,alpha_momentum_rank
+2026-10-13,EEM,1,alpha_momentum_rank
+2026-10-13,HYG,-1,alpha_momentum_rank
+2026-10-13,SLV,1,alpha_momentum_rank
+2026-10-13,TLT,-1,alpha_momentum_rank
+2026-10-13,USO,1,alpha_momentum_rank
+2026-10-13,UUP,-1,alpha_momentum_rank
+2026-10-13,XLE,1,alpha_momentum_rank
