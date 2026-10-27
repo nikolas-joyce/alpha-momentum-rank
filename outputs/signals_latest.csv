@@ -19011,3 +19011,10 @@ date,ticker,direction,alpha_name
 2026-10-22,TLT,-1,alpha_momentum_rank
 2026-10-22,USO,1,alpha_momentum_rank
 2026-10-22,XLE,1,alpha_momentum_rank
+2026-10-23,EEM,1,alpha_momentum_rank
+2026-10-23,HYG,-1,alpha_momentum_rank
+2026-10-23,SLV,1,alpha_momentum_rank
+2026-10-23,TLT,-1,alpha_momentum_rank
+2026-10-23,USO,1,alpha_momentum_rank
+2026-10-23,VNQ,-1,alpha_momentum_rank
+2026-10-23,XLE,1,alpha_momentum_rank
