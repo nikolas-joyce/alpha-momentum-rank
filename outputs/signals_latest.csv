@@ -19060,3 +19060,10 @@ date,ticker,direction,alpha_name
 2026-11-02,USO,1,alpha_momentum_rank
 2026-11-02,XLE,1,alpha_momentum_rank
 2026-11-02,XLF,-1,alpha_momentum_rank
+2026-11-03,EEM,1,alpha_momentum_rank
+2026-11-03,GLD,-1,alpha_momentum_rank
+2026-11-03,HYG,-1,alpha_momentum_rank
+2026-11-03,SLV,1,alpha_momentum_rank
+2026-11-03,TLT,-1,alpha_momentum_rank
+2026-11-03,USO,1,alpha_momentum_rank
+2026-11-03,XLE,1,alpha_momentum_rank
