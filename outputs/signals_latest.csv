@@ -19074,3 +19074,17 @@ date,ticker,direction,alpha_name
 2026-11-04,TLT,-1,alpha_momentum_rank
 2026-11-04,USO,1,alpha_momentum_rank
 2026-11-04,XLE,1,alpha_momentum_rank
+2026-11-05,EEM,1,alpha_momentum_rank
+2026-11-05,GLD,-1,alpha_momentum_rank
+2026-11-05,HYG,-1,alpha_momentum_rank
+2026-11-05,SLV,1,alpha_momentum_rank
+2026-11-05,TLT,-1,alpha_momentum_rank
+2026-11-05,USO,1,alpha_momentum_rank
+2026-11-05,XLE,1,alpha_momentum_rank
+2026-11-06,EEM,1,alpha_momentum_rank
+2026-11-06,HYG,-1,alpha_momentum_rank
+2026-11-06,SLV,1,alpha_momentum_rank
+2026-11-06,TLT,-1,alpha_momentum_rank
+2026-11-06,USO,1,alpha_momentum_rank
+2026-11-06,VNQ,-1,alpha_momentum_rank
+2026-11-06,XLE,1,alpha_momentum_rank
